@@ -1,7 +1,14 @@
 # 💫 About Me:
-I am a passionate developer with a strong background in both web and software development. My expertise spans a wide range of technologies, including:<br><br> Frontend Development: Proficient in HTML, CSS, JavaScript, and React for creating responsive and dynamic user interfaces.<br>Backend Development: Skilled in Node.js with Express, as well as Python frameworks like Flask and Django for building scalable server-side applications.<br>Database Management: Experienced with SQL databases for structured data storage and management.<br>Software Development: Competent in Java, particularly in creating desktop applications using Java Swing.<br>Continuous Learning: Always eager to explore and master new tools and technologies to stay updated with the industry trends.<br>I enjoy tackling complex problems and transforming ideas into functional, user-friendly applications.<br>
+I am a passionate developer with a strong background in both web and software development. My expertise spans a wide range of technologies, including:<br>
 
-And Currently I am too excited to learn about App Development with Flutter, React Native and Kotlin.
+**Frontend Development:** Proficient in HTML, CSS, JavaScript, and React for creating responsive and dynamic user interfaces.<br>
+**Backend Development:** Skilled in Node.js with Express, as well as Python framework like Flask for building scalable server-side applications.<br>
+**Database Management:** Experienced with SQL databases for structured data storage and management.<br>
+**Software Development:** Competent in Java, particularly in creating desktop applications using Java Swing.<br>
+
+**Continuous Learning:** Always eager to explore and master new tools and technologies to stay updated with the industry trends.<br>I enjoy tackling complex problems and transforming ideas into functional, user-friendly applications.<br>
+
+And Currently I am too excited to learn about more in BackEnd Development with JavaScript & Python.
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
