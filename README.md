@@ -11,7 +11,7 @@ I am a passionate developer with a strong background in both web and software de
 And Currently I am too excited to learn about more in BackEnd Development with JavaScript & Python.
 
 # 💻 Tech Stack:
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
+<!-- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/HTML_5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS_3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
