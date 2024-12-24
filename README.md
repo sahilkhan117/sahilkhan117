@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 I am a passionate developer with a strong background in both web and software development. My expertise spans a wide range of technologies, including:<br>
 
 **Frontend Development:** Proficient in HTML, CSS, JavaScript, and React for creating responsive and dynamic user interfaces.<br>
@@ -9,6 +10,8 @@ I am a passionate developer with a strong background in both web and software de
 **Continuous Learning:** Always eager to explore and master new tools and technologies to stay updated with the industry trends.<br>I enjoy tackling complex problems and transforming ideas into functional, user-friendly applications.<br>
 
 And Currently I am too excited to learn about more in BackEnd Development with JavaScript & Python.
+
+<a href="https://app.daily.dev/sahilkhan57"><img src="https://api.daily.dev/devcards/v2/JyOYLIhQmLRSLxkD6tRQk.png?type=default&r=tuz" width="356" alt="Sahil Khan's Dev Card"/></a>
 
 # 💻 Tech Stack:
 <!-- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) -->
