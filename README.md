@@ -11,7 +11,6 @@ I am a passionate developer with a strong background in both web and software de
 
 And Currently I am too excited to learn about more in BackEnd Development with JavaScript & Python.
 
-<a href="https://app.daily.dev/sahilkhan57"><img src="https://api.daily.dev/devcards/v2/JyOYLIhQmLRSLxkD6tRQk.png?type=default&r=tuz" width="356" alt="Sahil Khan's Dev Card"/></a>
 
 # 💻 Tech Stack:
 <!-- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) -->
