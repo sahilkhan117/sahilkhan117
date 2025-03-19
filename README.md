@@ -51,7 +51,7 @@ And Currently I am too excited to learn about more in BackEnd Development with J
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahilkhan117&theme=dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan117&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=sahilkhan117&theme=radical&show=prs_merged,prs_merged_percentage&show_icons=true)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan117&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan117&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%" alt="Example Image" /> ![](https://github-readme-stats.vercel.app/api?username=sahilkhan117&theme=radical&show=prs_merged,prs_merged_percentage&show_icons=true)
 ![](https://visitcount.itsvg.in/api?id=sahilkhan117&icon=5&color=1)
 <!-- ![](https://visitcount.itsvg.in/api?id=sahilkhan117&icon=0&color=0) -->
