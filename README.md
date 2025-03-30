@@ -3,7 +3,7 @@
 Hey! Everyone, My self [Sahil Khan](https://sahilkhan117.github.io), I am a passionate developer with a strong background in both web and software development. My expertise spans a wide range of technologies, including:<br>
 
 ⚡ **Frontend Development:** Proficient in Advanced JavaScript, React, Motion (prev Framer Motion) and many more for creating dynamic , Intractive and Design friendly user interfaces.<br>
-🚀 **Backend Development:** Skilled in Node.js with Express, NEXT and as well as Python framework like Flask for building scalable WebApps.<br>
+🚀 **Backend Development:** Skilled in Node.js with Express, NEXT.js and as well as Python framework like Flask for building scalable WebApps.<br>
 ⭐ **Database Management:** Experienced with SQL (eg. MySQL), NoSQL (eg. MongoDB) and also Vector Databases.<br>
 
 📌 **Continuous Learning:** Always eager to explore and master new tools and technologies to stay updated with the industry trends.<br>I enjoy tackling complex problems and transforming ideas into functional, user-friendly applications.<br>
