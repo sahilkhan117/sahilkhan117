@@ -46,6 +46,6 @@ Hey! Everyone, My self [Sahil Khan](https://sahilkhan117.github.io), I am a pass
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahilkhan117&theme=dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan117&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&size_weight=1&count_weight=0&langs_count=8&exclude_repo=WEB-by-CyberDairy)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan117&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&size_weight=1&count_weight=0&langs_count=8&exclude_repo=WEB-by-CyberDairy,pandas_playbook)<br>
 ![](https://github-readme-stats.vercel.app/api?username=sahilkhan117&theme=radical&show=prs_merged,prs_merged_percentage&show_icons=true)
 <!-- ![](https://visitcount.itsvg.in/api?id=sahilkhan117&icon=0&color=0) -->
