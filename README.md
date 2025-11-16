@@ -62,7 +62,7 @@ and continuously leveling up my skills through development, reading, and shippin
 
 <p align="center">
 <a><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkhan117&theme=dark"/></a>
-<a><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan117&theme=radical&layout=compact"/></a>
+<a><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan117&theme=radical&layout=compact&exclude_repo=pandas_playbook"/></a>
 </p>
 
 <p align="center">
