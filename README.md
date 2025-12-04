@@ -66,6 +66,6 @@ and continuously leveling up my skills through development, reading, and shippin
 </p>
 
 <p align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=sahilkhan117&theme=black&filter=annual"/>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=sahilkhan117&theme=black&filter=daily"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sahilkhan117&theme=dark&filter=annual&animated=true"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sahilkhan117&theme=dark&filter=daily&animated=true"/>
 </p>
