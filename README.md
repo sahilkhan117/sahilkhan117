@@ -68,12 +68,11 @@ I like solving real problems, improving performance, understanding internal syst
 
 ---
 
-<p align="center" max-height="100">
+<p align="center">
 <img height="190" alt="sahilkhan117's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sahilkhan117?cardType=level-alternate&theme=radical&fontFamily=Adamina&preferLogin=false&Points.CommitsToMyRepositories=10&borderRadius=8" />
   <img height="190" src="https://ghstats.dev/api/langs?username=sahilkhan117&theme=midnight&max_langs=10&layout=grid" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=sahilkhan117&theme=dark&filter=annual&animated=true" />
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=sahilkhan117&theme=dark&filter=daily&animated=true&limit=4" />
+  <img height="400" alt="image" src="https://github.com/user-attachments/assets/4a498925-ab98-426f-b028-7ee1de71b375" />
 </p>
