@@ -68,9 +68,9 @@ I like solving real problems, improving performance, understanding internal syst
 
 ---
 
-<p align="center">
-<a><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkhan117&theme=dark"/></a>
-<a><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan117&theme=radical&layout=compact&exclude_repo=pandas_playbook"/></a>
+<p align="center" max-height="100">
+<img height="190" alt="sahilkhan117's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sahilkhan117?cardType=level-alternate&theme=radical&fontFamily=Adamina&preferLogin=false&Points.CommitsToMyRepositories=10&borderRadius=8" />
+  <img height="190" src="https://ghstats.dev/api/langs?username=sahilkhan117&theme=midnight&max_langs=10&layout=grid" alt="Top Languages" />
 </p>
 
 <p align="center">
